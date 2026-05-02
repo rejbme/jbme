@@ -1,5 +1,5 @@
 # jbme
-a re-jailbreak for ios 9.2.x to 9.3.3 to be used on systems that were once jailbroken using pg client or pangu9 or if you use a999activator use this to jailbreak it credits to @qwertyoruiopz on twitter for the exploit
+a re-jailbreak for ios 9.2.x to 9.3.3 to be used on systems that were once jailbroken using pg client or pangu9 or if you use a999activator use this to jailbreak it credits to @qwertyoruiopz on twitter for the exploit and source code
 
 Tested versions
 | iOS         | App Store | Cydia       | Tweaks    | Respring| Cellular |
@@ -8,3 +8,5 @@ Tested versions
 | 9.3         | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  |
 | 9.2.1       | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  |
 | 9.2         | &#9745;   | &#9745;     | &#9745;   | &#9745; | &#9745;  |
+
+If your version isnt here then theres a chance it wont work
